@@ -157,7 +157,7 @@ button{
 }
 
 
-`;function Fm({toggle:e}){return R.jsx(R.Fragment,{children:R.jsxs(Am,{children:[R.jsx("div",{className:"Image",children:R.jsx("img",{src:"/assets/dices.png",alt:"Dice-Image"})}),R.jsxs("div",{className:"Contents",children:[R.jsx("h2",{children:"DICE GAME"}),R.jsx("button",{onClick:e,children:"Play Now"})]})]})})}const Am=tn.div`
+`;function Fm({toggle:e}){return R.jsx(R.Fragment,{children:R.jsxs(Am,{children:[R.jsx("div",{className:"Image",children:R.jsx("img",{src:"assets/dices.png",alt:"Dice-Image"})}),R.jsxs("div",{className:"Contents",children:[R.jsx("h2",{children:"DICE GAME"}),R.jsx("button",{onClick:e,children:"Play Now"})]})]})})}const Am=tn.div`
 
     padding-top: 47px;
   display: flex;
