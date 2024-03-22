@@ -5,7 +5,7 @@ function Login({toggle}) {
     <>
       <Container>
         <div className="Image">
-          <img src="/assets/dices.png" alt="Dice-Image" />
+          <img src="assets/dices.png" alt="Dice-Image" />
         </div>
 
         <div className="Contents">
